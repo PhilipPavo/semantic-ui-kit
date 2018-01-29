@@ -1,5 +1,5 @@
 {
-  "name": "my_package",
+  "name": "tryoup-semantic-ui-kit",
   "description": "",
   "version": "1.0.0",
   "scripts": {
@@ -7,9 +7,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ashleygwilliams/my_package.git"
+    "url": "https://github.com/PhilipPavo/semantic-ui-kit.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "semantic-ui": "^2.2.14"
+  }
 }
